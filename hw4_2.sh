@@ -1,0 +1,1 @@
+python3 p2.py --csv_dir $1 --data_dir $2 --pred $3 --weight best_model.pth
