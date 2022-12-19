@@ -1,0 +1,1 @@
+python3 p1.py --json $1 --save_folder $2
